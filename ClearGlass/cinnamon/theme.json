@@ -1,0 +1,10 @@
+{ 
+   "cinnamon-theme": {
+   "name": "ClearGlass", 
+   "author": "atlas356", 
+   "version": "1.0",
+   "type":   "custom",
+   "thumbnail": "thumbnail.png", 
+   "url": "" 
+    }
+}
